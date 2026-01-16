@@ -5,6 +5,7 @@ function App() {
   return (
     <div id="main">
       // Do not alter the main div
+      <h1>hello</h1>
     </div>
   );
 }
